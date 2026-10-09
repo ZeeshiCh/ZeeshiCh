@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZeeshiCh&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
   <a href="#-featured-projects">Featured projects</a> · <a href="#tech-stack">Tech stack</a> · <a href="#-github-activity">GitHub activity</a>
 </p>
 
