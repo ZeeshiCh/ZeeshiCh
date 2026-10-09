@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#-featured-projects">Featured projects</a> · <a href="#-tech-stack">Tech stack</a> · <a href="#-github-activity">GitHub activity</a>
+  <a href="#-featured-projects">Featured projects</a> · <a href="#tech-stack">Tech stack</a> · <a href="#-github-activity">GitHub activity</a>
 </p>
 
 ---
@@ -52,6 +52,8 @@ I build web and mobile applications across **enterprise software, healthcare, fi
 | :golf: **Golf Course Booking App** (2024) | Cross-platform reservation app with synchronized tee-time availability, optimized Firebase queries, and a React Native version upgrade | React Native, Firebase, JavaScript |
 
 ---
+
+<a name="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
