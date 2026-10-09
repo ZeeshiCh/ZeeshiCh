@@ -23,7 +23,7 @@
 - :building_construction: Design **REST APIs, database architectures, and microservices**
 - :zap: Optimize application performance, database queries, and data-intensive workflows
 - :briefcase: **Software Engineer / Full-Stack Developer @ Verdant Soft**, Lahore
-- :mortar_board: **BS Computer Science — COMSATS Institute of Information Technology** · CGPA **3.66 / 4.00**
+- :mortar_board: **BS Computer Science — COMSATS Institute of Information Technology** · CGPA **3.67 / 4.00**
 
 ---
 
