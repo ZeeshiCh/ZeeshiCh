@@ -138,6 +138,8 @@ I build web and mobile applications across **enterprise software, healthcare, fi
 
 ## 📊 GitHub Activity
 
+My work is spread across two accounts: **[ZeeshiCh](https://github.com/ZeeshiCh)** for my personal profile and **[zeeshanzafarvs](https://github.com/zeeshanzafarvs)** for contributions through one of my office accounts.
+
 <p align="center">
   <a href="https://github.com/ZeeshiCh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ZeeshiCh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="ZeeshiCh public GitHub activity"/></a>
   <a href="https://github.com/ZeeshiCh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshiCh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Languages used in ZeeshiCh public repositories"/></a>
