@@ -47,28 +47,15 @@ I build web and mobile applications across **enterprise software, healthcare, fi
 | :house_with_garden: **[Homewellness App](case-studies/homewellness.md)** (2026) | Home healthcare marketplace connecting patients and providers, with provider onboarding, service discovery, quotations, appointment booking, and admin workflows | Next.js, React, TypeScript, Hono, Bun, Drizzle ORM, PostgreSQL, Tailwind CSS |
 | :telephone_receiver: **[Hexa AI](case-studies/hexa-ai.md)** (2026) | Multi-tenant AI calling platform with inbound/outbound calls, custom conversation flows, and role-based access | NestJS, Next.js, Twilio, OpenAI, ElevenLabs, PostgreSQL |
 | :school_satchel: **[Nedjmati App](case-studies/nedjmati.md)** (2026) | Mobile learning app for Grades 1–6 with interactive activities, progress tracking, and a parent dashboard | React Native, Firebase, Node.js, PostgreSQL |
-| :file_folder: **Case Management Hub** (2025) | Case management platform for service organizations with customizable forms, client workflows, reporting, scheduling, and role-based access | Next.js, TypeScript, NestJS, PostgreSQL, MongoDB, Firebase, Docker |
-| :chart_with_upwards_trend: **Degen App** (2024–2025) | Native Android cryptocurrency trading app with payment integrations, biometric authentication, encrypted wallet storage, and real-time market charts | Kotlin, Android, Jetpack Compose, Firebase, MoonPay, TransFi |
-| :golf: **Golf Course Booking App** (2024) | Cross-platform reservation app with synchronized tee-time availability, optimized Firebase queries, and a React Native version upgrade | React Native, Firebase, JavaScript |
+| :file_folder: **[Case Management Hub](https://app.casemanagementhub.org/)** (2025) | Case management platform for service organizations with customizable forms, client workflows, reporting, scheduling, and role-based access | Next.js, TypeScript, NestJS, PostgreSQL, MongoDB, Firebase, Docker |
+| :chart_with_upwards_trend: **[Degn App](https://degn.app/)** (2024–2025) · **Unreleased** | Native Android cryptocurrency trading app with payment integrations, biometric authentication, encrypted wallet storage, and real-time market charts | Kotlin, Android, Jetpack Compose, Firebase, MoonPay, TransFi |
+| :golf: **[GOAT App](https://apps.apple.com/us/app/goat-app/id1597319742)** (2024) | Cross-platform reservation app with synchronized tee-time availability, optimized Firebase queries, and a React Native version upgrade | React Native, Firebase, JavaScript |
 
 ---
 
 <a name="tech-stack"></a>
 
 ## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" title="NestJS"/>
-  <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React / React Native" title="React / React Native"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=bun" width="44" height="44" alt="Bun" title="Bun"/>
-</p>
-
-<details>
-<summary><b>Explore the full toolbox</b></summary>
 
 **Languages**
 
@@ -142,7 +129,6 @@ I build web and mobile applications across **enterprise software, healthcare, fi
   <img src="https://www.google.com/s2/favicons?domain=transfi.com&amp;sz=128" width="48" height="48" alt="TransFi" title="TransFi"/>
 </p>
 
-</details>
 
 ---
 
