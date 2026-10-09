@@ -1,0 +1,63 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish animations to output branch
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+            const branch = 'output';
+            try {
+              await github.rest.git.getRef({ owner, repo, ref: `heads/${branch}` });
+            } catch (error) {
+              if (error.status !== 404) throw error;
+              await github.rest.git.createRef({
+                owner, repo, ref: `refs/heads/${branch}`, sha: context.sha
+              });
+            }
+            for (const path of ['github-snake.svg', 'github-snake-dark.svg']) {
+              const content = fs.readFileSync(`dist/${path}`).toString('base64');
+              let sha;
+              try {
+                const existing = await github.rest.repos.getContent({ owner, repo, path, ref: branch });
+                if (existing.data.content.replace(/\s/g, '') === content) continue;
+                sha = existing.data.sha;
+              } catch (error) {
+                if (error.status !== 404) throw error;
+              }
+              await github.rest.repos.createOrUpdateFileContents({
+                owner, repo, branch, path, content, sha,
+                message: `Update ${path}`
+              });
+            }

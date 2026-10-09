@@ -141,6 +141,18 @@ I build web and mobile applications across **enterprise software, healthcare, fi
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeeshiCh/ZeeshiCh/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeeshiCh/ZeeshiCh/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/ZeeshiCh/ZeeshiCh/output/github-snake.svg" alt="Animated snake following ZeeshiCh’s GitHub contributions" width="100%"/>
+  </picture>
+</p>
+
+---
+
 ## 💼 Experience & Education
 
 | Role | Company | Period |
