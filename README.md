@@ -138,21 +138,12 @@ I build web and mobile applications across **enterprise software, healthcare, fi
 
 ## 📊 GitHub Activity
 
-### Personal · [ZeeshiCh](https://github.com/ZeeshiCh)
+My work is spread across two accounts: **[ZeeshiCh](https://github.com/ZeeshiCh)** for my personal profile and **[zeeshanzafarvs](https://github.com/zeeshanzafarvs)** for contributions through one of my office accounts.
 
 <p align="center">
-  <a href="https://github.com/ZeeshiCh"><img src="https://github-readme-stats.vercel.app/api?username=ZeeshiCh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="ZeeshiCh personal GitHub statistics"/></a>
-  <a href="https://github.com/ZeeshiCh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshiCh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Languages in ZeeshiCh public repositories"/></a>
+  <a href="https://github.com/ZeeshiCh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ZeeshiCh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="ZeeshiCh public GitHub activity"/></a>
+  <a href="https://github.com/ZeeshiCh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshiCh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Languages used in ZeeshiCh public repositories"/></a>
 </p>
-
-### Office · [zeeshanzafarvs](https://github.com/zeeshanzafarvs)
-
-<p align="center">
-  <a href="https://github.com/zeeshanzafarvs"><img src="https://github-readme-stats.vercel.app/api?username=zeeshanzafarvs&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="zeeshanzafarvs office GitHub statistics"/></a>
-  <a href="https://github.com/zeeshanzafarvs?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanzafarvs&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Languages in zeeshanzafarvs public repositories"/></a>
-</p>
-
-<sub>Each card represents one account. These public cards may omit work in private office repositories.</sub>
 
 ---
 
