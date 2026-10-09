@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Zafar</h1>
-<h3 align="center">Full-Stack & Mobile Software Engineer · Next.js · NestJS · React Native · Kotlin</h3>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Zeeshan Zafar — Full-Stack and Mobile Software Engineer"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/zeeshi-ch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,26 +9,64 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZeeshiCh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="#-featured-projects">Featured projects</a> · <a href="#-tech-stack">Tech stack</a> · <a href="#-github-activity">GitHub activity</a>
 </p>
 
 ---
 
-## :rocket: About Me
+## 👋 About Me
 
-**Full-Stack & Mobile Software Engineer** with **4+ years** of experience building scalable web and mobile applications across enterprise software, eCommerce, fintech, and industrial automation.
+I build web and mobile applications across **enterprise software, healthcare, fintech, and education**. My work spans responsive interfaces, backend services, and native and cross-platform mobile experiences.
 
-- :art: Build responsive web experiences with **React, Next.js, and TypeScript**
-- :iphone: Develop native and cross-platform apps with **React Native, iOS, Android, Kotlin, and Jetpack Compose**
-- :wrench: Engineer backend services with **Node.js, NestJS, Hono, and Express.js**
-- :building_construction: Design **REST APIs, database architectures, and microservices**
-- :zap: Optimize application performance, database queries, and data-intensive workflows
-- :briefcase: **Software Engineer / Full-Stack Developer @ Verdant Soft**, Lahore
-- :mortar_board: **BS Computer Science — COMSATS Institute of Information Technology** · CGPA **3.67 / 4.00**
+- 🌐 **Full-stack:** React, Next.js, TypeScript, Node.js, NestJS, and Hono.
+- 📱 **Mobile:** React Native, iOS, Android, Kotlin, and Jetpack Compose.
+- ⚡ **Engineering focus:** API design, database performance, reusable components, and third-party integrations.
+- 💼 **Software Engineer / Full-Stack Developer at Verdant Soft**, Lahore.
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="case-studies/hexa-ai.md"><img src="assets/hexa-ai.svg" width="100%" alt="Hexa AI project overview"/></a>
+<p><a href="case-studies/hexa-ai.md">Project overview</a> · <a href="https://gethexa.ai/">Visit product</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="case-studies/homewellness.md"><img src="assets/homewellness.svg" width="100%" alt="Homewellness project overview"/></a>
+<p><a href="case-studies/homewellness.md">Project overview</a> · <a href="https://app.homewellnessplus.com/">Visit product</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="case-studies/nedjmati.md"><img src="assets/nedjmati.svg" width="100%" alt="Nedjmati project overview"/></a>
+<p><a href="case-studies/nedjmati.md">Project overview</a></p>
+</td>
+</tr>
+</table>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| :house_with_garden: **[Homewellness App](case-studies/homewellness.md)** (2026) | Home healthcare marketplace connecting patients and providers, with provider onboarding, service discovery, quotations, appointment booking, and admin workflows | Next.js, React, TypeScript, Hono, Bun, Drizzle ORM, PostgreSQL, Tailwind CSS |
+| :telephone_receiver: **[Hexa AI](case-studies/hexa-ai.md)** (2026) | Multi-tenant AI calling platform with inbound/outbound calls, custom conversation flows, and role-based access | NestJS, Next.js, Twilio, OpenAI, ElevenLabs, PostgreSQL |
+| :school_satchel: **[Nedjmati App](case-studies/nedjmati.md)** (2026) | Mobile learning app for Grades 1–6 with interactive activities, progress tracking, and a parent dashboard | React Native, Firebase, Node.js, PostgreSQL |
+| :file_folder: **Case Management Hub** (2025) | Case management platform for service organizations with customizable forms, client workflows, reporting, scheduling, and role-based access | Next.js, TypeScript, NestJS, PostgreSQL, MongoDB, Firebase, Docker |
+| :chart_with_upwards_trend: **Degen App** (2024–2025) | Native Android cryptocurrency trading app with payment integrations, biometric authentication, encrypted wallet storage, and real-time market charts | Kotlin, Android, Jetpack Compose, Firebase, MoonPay, TransFi |
+| :golf: **Golf Course Booking App** (2024) | Cross-platform reservation app with synchronized tee-time availability, optimized Firebase queries, and a React Native version upgrade | React Native, Firebase, JavaScript |
 
 ---
 
-## :hammer_and_wrench: Tech Stack
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" title="NestJS"/>
+  <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React / React Native" title="React / React Native"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=bun" width="44" height="44" alt="Bun" title="Bun"/>
+</p>
+
+<details>
+<summary><b>Explore the full toolbox</b></summary>
 
 **Languages**
 
@@ -101,10 +140,20 @@
   <img src="https://www.google.com/s2/favicons?domain=transfi.com&amp;sz=128" width="48" height="48" alt="TransFi" title="TransFi"/>
 </p>
 
+</details>
 
 ---
 
-## :briefcase: Experience
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/ZeeshiCh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ZeeshiCh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="ZeeshiCh public GitHub activity"/></a>
+  <a href="https://github.com/ZeeshiCh?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshiCh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Languages used in ZeeshiCh public repositories"/></a>
+</p>
+
+---
+
+## 💼 Experience & Education
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -119,23 +168,13 @@
 
 </details>
 
----
+**BS Computer Science** · COMSATS Institute of Information Technology
 
-## :open_file_folder: Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| :house_with_garden: **Homewellness App** (2026) | Home healthcare marketplace connecting patients and providers, with provider onboarding, service discovery, quotations, appointment booking, and admin workflows | Next.js, React, TypeScript, Hono, Bun, Drizzle ORM, PostgreSQL, Tailwind CSS |
-| :telephone_receiver: **Hexa AI** (2026) | Multi-tenant AI calling platform with inbound/outbound calls, custom conversation flows, and role-based access | NestJS, Next.js, Twilio, OpenAI, ElevenLabs, PostgreSQL |
-| :school_satchel: **Nedjmati App** (2026) | Mobile learning app for Grades 1–6 with interactive activities, progress tracking, and a parent dashboard | React Native, Firebase, Node.js, PostgreSQL |
-| :file_folder: **Case Management Hub** (2025) | Case management platform for service organizations with customizable forms, client workflows, reporting, scheduling, and role-based access | Next.js, TypeScript, NestJS, PostgreSQL, MongoDB, Firebase, Docker |
-| :chart_with_upwards_trend: **Degen App** (2024–2025) | Native Android cryptocurrency trading app with payment integrations, biometric authentication, encrypted wallet storage, and real-time market charts | Kotlin, Android, Jetpack Compose, Firebase, MoonPay, TransFi |
-| :golf: **Golf Course Booking App** (2024) | Cross-platform reservation app with synchronized tee-time availability, optimized Firebase queries, and a React Native version upgrade | React Native, Firebase, JavaScript |
 
 ---
 
-## :handshake: Let's Connect
+## 🤝 Let’s Connect
 
-Interested in discussing **full-stack applications**, **mobile experiences**, or **backend systems**? Reach me at **[Zeeshich019@gmail.com](mailto:Zeeshich019@gmail.com)** or connect on **[LinkedIn](https://linkedin.com/in/zeeshi-ch)**.
+Have a web, mobile, or backend project to discuss? Reach me on **[LinkedIn](https://linkedin.com/in/zeeshi-ch)** or at **[Zeeshich019@gmail.com](mailto:Zeeshich019@gmail.com)**.
 
-<p align="center"><i>⭐ Thanks for visiting!</i></p>
+<p align="center"><i>Thanks for stopping by 👋</i></p>
