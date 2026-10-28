@@ -53,12 +53,13 @@ const zeeshan = {
   based: "Lahore, Pakistan 🇵🇰",
   buildingSince: 2022,
   degree: "BS CS · COMSATS Lahore",
-  focus: ["Clear APIs", "Usable products"],
+  focus: ["Software Architecture", "Product Leadership"],
   stack: {
     web: ["React", "Next.js", "TypeScript"],
     backend: ["Node.js", "NestJS", "Hono"],
     mobile: ["React Native", "Kotlin"],
   },
+  coffee: Infinity,
 };
 ```
 
