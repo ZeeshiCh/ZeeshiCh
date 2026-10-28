@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Zeeshan Zafar — Full Stack and Mobile Software Engineer">
- <style>.star{transform-origin:1050px 150px;animation:turn 28s linear infinite}@keyframes turn{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.star{animation:none}}</style>
- <rect width="1200" height="300" rx="16" fill="#f7f5f0"/>
- <path d="M48 264H1152" stroke="#ddd7e8"/>
- <g font-family="Arial,Helvetica,sans-serif"><text x="48" y="58" fill="#64616f" font-size="14" letter-spacing="3">BUILDING SOFTWARE SINCE 2022</text>
- <text x="44" y="137" fill="#24212b" font-size="62" font-weight="800" letter-spacing="-2">ZEESHAN ZAFAR<tspan fill="#6d28d9">.</tspan></text>
- <text x="48" y="187" fill="#6d28d9" font-size="25">Full Stack &amp; Mobile Software Engineer</text>
- <text x="48" y="232" fill="#64616f" font-size="17">Thoughtful interfaces. Dependable systems. / Lahore, Pakistan</text></g>
- <g class="star" stroke="#6d28d9" stroke-width="5"><path d="M1050 100V200M1000 150H1100M1015 115L1085 185M1015 185L1085 115"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Zeeshan Zafar — Full Stack and Mobile Software Engineer">
+<defs><linearGradient id="purple" x2="1" y2="0.5"><stop stop-color="#ede9f5"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient></defs>
+<style>.wave{animation:swell 8s ease-in-out infinite alternate}.star{transform-origin:1060px 115px;animation:turn 28s linear infinite}@keyframes swell{from{transform:translateY(0)}to{transform:translateY(-8px)}}@keyframes turn{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.wave,.star{animation:none}}</style>
+<path d="M0 0H1200V240Q900 290 600 245T0 245Z" fill="url(#purple)"/>
+<path class="wave" d="M0 228Q200 195 400 229T800 224T1200 230V247Q900 280 600 253T0 258Z" fill="#6d28d9" opacity=".25"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="48" y="47" fill="#5b3a7d" font-size="14" letter-spacing="3">BUILDING SOFTWARE SINCE 2022</text><text x="44" y="121" fill="#3b176b" font-size="58" font-weight="800" letter-spacing="-1.5">ZEESHAN ZAFAR.</text><text x="48" y="166" fill="#3b176b" font-size="24">Full Stack &amp; Mobile Software Engineer</text><text x="48" y="205" fill="#5b3a7d" font-size="17">Thoughtful interfaces. Dependable systems.</text></g>
+<g class="star" stroke="#6d28d9" stroke-width="5"><path d="M1060 65V165M1010 115H1110M1025 80L1095 150M1025 150L1095 80"/></g></svg>

@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:191923,50:6D28D9,100:A78BFA&amp;height=220&amp;section=header&amp;text=Zeeshan%20Zafar&amp;fontSize=48&amp;fontColor=F5F3FF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full%20Stack%20%2B%20Mobile%20Software%20Engineer&amp;descAlignY=58&amp;descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EDE9F5,50:DDD6FE,100:C4B5FD&amp;height=220&amp;section=header&amp;text=Zeeshan%20Zafar&amp;fontSize=48&amp;fontColor=4C1D95&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full%20Stack%20%2B%20Mobile%20Software%20Engineer&amp;descAlignY=58&amp;descSize=18" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:191923,50:6D28D9,100:A78BFA&amp;height=220&amp;section=header&amp;text=Zeeshan%20Zafar&amp;fontSize=48&amp;fontColor=F5F3FF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full%20Stack%20%2B%20Mobile%20Software%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Zeeshan Zafar — Full Stack and Mobile Software Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header.svg" width="100%" alt="Zeeshan Zafar — Full Stack and Mobile Software Engineer" />
 </picture>
 
 ### I turn complex ideas into dependable software.
