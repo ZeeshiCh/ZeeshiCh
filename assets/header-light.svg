@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Zeeshan Zafar — Full Stack and Mobile Software Engineer">
+ <style>.star{transform-origin:1050px 150px;animation:turn 28s linear infinite}@keyframes turn{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.star{animation:none}}</style>
+ <rect width="1200" height="300" rx="16" fill="#f7f5f0"/>
+ <path d="M48 264H1152" stroke="#ddd7e8"/>
+ <g font-family="Arial,Helvetica,sans-serif"><text x="48" y="58" fill="#64616f" font-size="14" letter-spacing="3">BUILDING SOFTWARE SINCE 2022</text>
+ <text x="44" y="137" fill="#24212b" font-size="62" font-weight="800" letter-spacing="-2">ZEESHAN ZAFAR<tspan fill="#6d28d9">.</tspan></text>
+ <text x="48" y="187" fill="#6d28d9" font-size="25">Full Stack &amp; Mobile Software Engineer</text>
+ <text x="48" y="232" fill="#64616f" font-size="17">Thoughtful interfaces. Dependable systems. / Lahore, Pakistan</text></g>
+ <g class="star" stroke="#6d28d9" stroke-width="5"><path d="M1050 100V200M1000 150H1100M1015 115L1085 185M1015 185L1085 115"/></g></svg>

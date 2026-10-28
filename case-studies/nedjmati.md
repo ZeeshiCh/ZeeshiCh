@@ -1,12 +1,12 @@
-# Nedjmati — Mobile Learning Application
+# StarKidz — Mobile Learning Application (formerly Nedjmati)
 
-![Nedjmati overview](../assets/nedjmati.svg)
+![StarKidz overview](../assets/nedjmati.svg)
 
 [Back to profile](../README.md)
 
 ## The Product
 
-Nedjmati is a mobile learning application for primary-school pupils, with interactive lessons, practice questions, assessments, progress tracking, and parent-facing views.
+StarKidz (formerly Nedjmati) is a mobile learning application for primary-school pupils, with interactive lessons, practice questions, assessments, progress tracking, and parent-facing views.
 
 Its core challenge is maintaining a consistent learning experience across audio, questions, authentication, and navigation, while the backend records each pupil's learning progress separately from the parent account.
 
