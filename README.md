@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-  <img src="assets/header.svg" width="100%" alt="Zeeshan Zafar — Full Stack and Mobile Software Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-wave.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-wave-light.svg" />
+  <img src="assets/header-wave.svg" width="100%" alt="Zeeshan Zafar — Full Stack and Mobile Software Engineer" />
 </picture>
 
 ### I turn complex ideas into dependable software.
