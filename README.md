@@ -329,7 +329,7 @@ My contributions are spread across **[ZeeshiCh](https://github.com/ZeeshiCh)** a
 
 Have a web, backend, or mobile product to build—or an engineering role to discuss?
 
-**[Explore my portfolio ↗](https://zeeshan-zafar.vercel.app/)** · **[Download résumé ↓](https://zeeshan-zafar.vercel.app/assets/zeeshan-zafar-cv.pdf)** · **[Book a 30-minute call ↗](https://calendly.com/zeeshich019/30min)**
+**[Explore my portfolio ↗](https://zeeshan-zafar.vercel.app/)** · **[Download Resume ↓](https://zeeshan-zafar.vercel.app/assets/zeeshan-zafar-cv.pdf)** · **[Book a 30-minute call ↗](https://calendly.com/zeeshich019/30min)**
 
 [LinkedIn](https://www.linkedin.com/in/zeeshi-ch/) · [Zeeshich019@gmail.com](mailto:Zeeshich019@gmail.com) · [+92 333 606 0197](tel:+923336060197)
 
