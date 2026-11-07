@@ -57,7 +57,7 @@ const zeeshan = {
   stack: {
     web: ["React", "Next.js", "TypeScript"],
     backend: ["Node.js", "NestJS", "Hono"],
-    mobile: ["React Native", "Kotlin"],
+    mobile: ["React Native", "Flutter", "Kotlin"],
   },
   coffee: Infinity,
 };
@@ -207,6 +207,7 @@ flowchart TD
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React / React Native" title="React / React Native"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin"/>
@@ -282,7 +283,7 @@ flowchart TD
 **TheDesignerX**
 - Enterprise workflow applications.
 - Native Android applications for industrial operations.
-- React Native applications for eCommerce and fundraising.
+- React Native and Flutter applications for fintech, eCommerce and fundraising.
 - Node.js and Firebase serverless integrations.
 
 </details>
