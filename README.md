@@ -326,6 +326,8 @@ My contributions are spread across **[ZeeshiCh](https://github.com/ZeeshiCh)** a
 
 <a id="lets-connect"></a>
 
+<div align="center">
+
 ## Let’s connect
 
 Have a web, backend, or mobile product to build—or an engineering role to discuss?
@@ -336,7 +338,16 @@ Have a web, backend, or mobile product to build—or an engineering role to disc
 
 <sub>Built with intention. From Lahore, Pakistan.</sub>
 
+</div>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C4B5FD,50:DDD6FE,100:EDE9F5&amp;height=110&amp;section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:A78BFA,50:6D28D9,100:191923&amp;height=110&amp;section=footer" width="100%" alt="Purple wave footer" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C4B5FD,50:DDD6FE,100:EDE9F5&amp;height=160&amp;section=footer&amp;reversal=false"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:A78BFA,50:6D28D9,100:191923&amp;height=160&amp;section=footer"
+    width="100%"
+    alt="Purple wave footer"
+  />
 </picture>
