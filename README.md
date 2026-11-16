@@ -292,22 +292,39 @@ flowchart TD
 
 ---
 
+## Open source
+
+I build small, focused tools for safer database workflows and publish them for other engineers to inspect, use, and improve.
+
+### TenantGuard
+
+[TenantGuard](https://www.npmjs.com/org/tenantguard) is the open-source organization behind these database safety tools:
+
+| Package | What it does |
+| --- | --- |
+| [tenant-audit](https://www.npmjs.com/package/tenant-audit) | Finds multi-tenant data isolation risks across relational databases |
+| [db-deploy-doctor](https://www.npmjs.com/package/db-deploy-doctor) | Runs read-only deployment readiness checks |
+| [db-schema-guard](https://www.npmjs.com/package/db-schema-guard) | Detects schema drift before releases |
+| [db-backup-verify](https://www.npmjs.com/package/db-backup-verify) | Checks backup freshness, checksums, and isolated restore confidence |
+
+All four packages are MIT-licensed CLI tools. [Browse the source on GitHub](https://github.com/ZeeshiCh) or [view the TenantGuard npm organization](https://www.npmjs.com/org/tenantguard).
+
+---
+
 ## GitHub activity
 
 My contributions are spread across **[ZeeshiCh](https://github.com/ZeeshiCh)** and my professional account, **[zeeshanzafarvs](https://github.com/zeeshanzafarvs)**. Public repository activity represents only part of my engineering work.
 
-<details>
-<summary><strong>View public GitHub statistics</strong></summary>
+### Public snapshot
 
-<br />
+| Signal | Current snapshot |
+| --- | --- |
+| Open-source CLI tools | 4 published packages |
+| npm packages | 29 packages on [@zeeshanch](https://www.npmjs.com/~zeeshanch) |
+| TenantGuard | 1 dedicated npm organization |
+| Engineering projects | 50+ projects contributed to, including private NDA work |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZeeshiCh&amp;show_icons=true&amp;hide_border=true&amp;bg_color=191923&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=F5F3FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ZeeshiCh&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F7F5F0&amp;title_color=6D28D9&amp;icon_color=6D28D9&amp;text_color=24212B" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshiCh&amp;show_icons=true&amp;hide_border=true&amp;bg_color=191923&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=F5F3FF" alt="ZeeshiCh public GitHub statistics" />
-</picture>
-
-</details>
+These numbers describe public activity and project scope. They do not represent a measured performance benchmark.
 
 <details>
 <summary><strong>Contribution animation</strong></summary>
