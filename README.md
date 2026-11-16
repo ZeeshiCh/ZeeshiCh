@@ -18,6 +18,7 @@ Thoughtful interfaces. Maintainable backends. Mobile experiences built with care
 ![Experience](https://img.shields.io/badge/Experience-4%2B_years-A78BFA?style=flat-square&labelColor=24212B)
 ![Projects](https://img.shields.io/badge/Projects_contributed_to-50%2B-A78BFA?style=flat-square&labelColor=24212B)
 ![Location](https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-A78BFA?style=flat-square&labelColor=24212B)
+![Profile views](https://komarev.com/ghpvc/?username=ZeeshiCh&color=A78BFA&style=flat-square&label=Profile+views)
 
 [Projects](#selected-work) · [Engineering](#how-i-build) · [Stack](#tech-stack) · [Experience](#experience) · [Contact](#lets-connect)
 
